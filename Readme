@@ -1,0 +1,11 @@
+npm install mysql express
+npm run dev
+ctr c to stop
+
+http://localhost:8000/person
+
+Tech choices:
+Db - MYSQL need a relational database to store the family tree
+
+
+https://www.youtube.com/watch?v=LVfH5FDOa3o&ab_channel=Covalence
