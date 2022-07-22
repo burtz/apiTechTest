@@ -1,11 +1,18 @@
-npm install mysql express
-npm run dev
-ctr c to stop
+1) Bring Docker up
+cd docker docker-compose up
 
+2) //npm install mysql express
+
+3) npm run dev
+
+(ctr c to stop)
+
+4) API's are here:
 http://localhost:8000/person
 
-Tech choices:
-Db - MYSQL need a relational database to store the family tree
 
+Tech choices:
+DB - MYSQL need a relational database to store the family tree
+Node - suggested tech to quickly build an API
 
 https://www.youtube.com/watch?v=LVfH5FDOa3o&ab_channel=Covalence
